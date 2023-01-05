@@ -777,5 +777,6 @@ texture = ExtResource( 4 )
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="BackGround1"]
 autoplay = "BGAnim"
+playback_speed = 0.5
 anims/BGAnim = SubResource( 31 )
 anims/RESET = SubResource( 32 )
